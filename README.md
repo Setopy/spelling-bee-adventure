@@ -4,9 +4,9 @@ A browser based spelling practice garden for young spellers. The site is a singl
 
 ## Study source
 
-The word bank contains 4,000 spelling entries transcribed from the supplied **2019–2020 Words of the Champions** PDF. It preserves the source's One Bee, Two Bee, and Three Bee sections and marks the 450 School Spelling Bee Study List entries.
+The word bank contains 4,000 main headwords transcribed from the supplied **2019–2020 Words of the Champions** PDF. It preserves the source's One Bee, Two Bee, and Three Bee sections and marks the 450 School Spelling Bee Study List entries.
 
-The PDF is an older edition. Its introductory Three Bee count does not match the number of entries in the printed Three Bee sections, so the site reports the counts transcribed from the printed pages (One Bee 800; Two Bee 2,100; Three Bee 1,100). The booklet identifies Merriam-Webster Unabridged as the Bee's official dictionary. The word list itself does not provide definitions, example sentences, or audio.
+The PDF also prints alternate spellings. The app includes clear variants as accepted forms on their matching study cards; alternatives whose parent is unclear in the PDF layout appear as separate source-variant cards. The PDF is an older edition. Its introductory Three Bee count does not match the number of entries in the printed Three Bee sections, so the site reports the counts transcribed from the printed pages (One Bee 800; Two Bee 2,100; Three Bee 1,100). The booklet identifies Merriam-Webster Unabridged as the Bee's official dictionary. The word list itself does not provide definitions, example sentences, or audio.
 
 Confirm the current list and rules with the child's school or competition organizer. Scripps says its 2027 Words of the Champions edition is available to enrolled schools. This independent site is not affiliated with Scripps or Merriam-Webster.
 
@@ -16,7 +16,7 @@ Confirm the current list and rules with the child's school or competition organi
 
 ## Features
 
-- Browse and search all 4,000 source entries by tier and by school-list membership.
+- Browse and search 4,000 main headwords and the printed alternate spellings by tier and by school-list membership.
 - Study cards with family-entered meanings, sentences, and verified spelling or word-part clues.
 - Listening and spelling checks, multiple-choice spelling, missing-letter, and scramble practice.
 - Ten-word mock bee rounds, review scheduling, progress tracking, and custom word-list entry.
