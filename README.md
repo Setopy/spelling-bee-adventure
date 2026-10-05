@@ -27,3 +27,13 @@ Speech playback uses the voice installed in the visitor's browser. It is not off
 ## Publish
 
 GitHub Pages serves `index.html` from the repository root. The page is self-contained; the word bank is embedded in `index.html`.
+
+## Install on a phone and track children separately
+
+Word Bee Adventure is an installable Progressive Web App (PWA). Open `https://spellingbee.luzkids.org/` in a supported phone browser and choose **Install app**. On iPhone or iPad, open it in Safari, tap Share, then **Add to Home Screen**. On Android, open it in Chrome and choose **Install app** from the browser menu.
+
+The opening player picker uses a child’s first name or nickname and a Bible-character avatar (David, Esther, Noah, Daniel, Ruth, Moses, Mary, or Joseph). No email or password is collected. Each profile keeps its own word attempts, correct recalls, review queue, notes, study days, and streak on that browser/device. Existing single-player progress migrates to the first profile created.
+
+Profiles are a household player picker, not authenticated accounts. Data stays in the browser’s local storage and is not uploaded or synchronized across phones. Use the same device and browser to continue the same profile. If families need cross-device sync, add a private family account/backend before promising synced progress.
+
+The app shell and word bank can be cached for offline opening after the first online visit. Some browser speech voices and dictionary links still need connectivity or device support.
